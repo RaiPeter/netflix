@@ -56,7 +56,7 @@ width: 100%;
     position: relative;
     height: 100vh;
     width: 100%;
-    background-image: url(netflix-image.jpg);
+    background-image: url(./assets/img/netflix-image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
